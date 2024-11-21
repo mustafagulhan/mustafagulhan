@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa Gülhan</h1>
-<h3 align="center">I am a senior student in the Software Engineering department at Burdur Mehmet Akif Ersoy University.</h3>
+<h3 align="center">I am a senior student in the Software Engineering Student at Burdur Mehmet Akif Ersoy University.</h3>
 
 📫 How to reach me **mstfglhnn@gmail.com**
 

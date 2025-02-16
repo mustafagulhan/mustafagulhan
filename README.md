@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mustafa Gülhan</h1>
+<h1 align="center">Hi 👋, I'm Mustafa Gülhann</h1>
 <h3 align="center">I am a Software Engineering student at Burdur Mehmet Akif Ersoy University.</h3>
 
 📫 Contact me! **mstfglhnn@gmail.com**
